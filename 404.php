@@ -24,7 +24,7 @@ get_header();
 		<main id="main" class="site-main">
 			
             <div class="error-404">
-                <img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/page-404-icon.png" alt="" title="" />
+                <img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/img/404-page-not-found.png" alt="page-not-found" title="page-not-found" width="150px" height="150px"/>
                 <h2><?php esc_html_e( ' Oops! You got a wrong page! this is not found.', 'shopstore' ); ?></h2>
                 <h5><?php esc_html_e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'shopstore' ); ?></h5>
                 
