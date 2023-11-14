@@ -28,7 +28,7 @@
 					<div class="col-md-7">
 						<p class="copyright"> <?php
 			/* translators: 1: Current Year, 2: Blog Name 3: Theme Developer 4: WordPress. */
-		printf( esc_html__( 'Copyright &copy; %1$s %2$s , All Right Reserved.%3$s %4$s Theme by aThemeArt - Proudly powered by WordPress', 'shopstore' ), esc_attr( date( 'Y' ) ), esc_html( get_bloginfo( 'name' ) ),'<br/>', '<a href="https://athemeart.com/downloads/shopstore/" target="_blank">ShopStore</a>');
+		printf( esc_html__( 'Copyright &copy; %1$s %2$s , All Right Reserved.', 'shopstore' ), esc_attr( date( 'Y' ) ), esc_html( get_bloginfo( 'name' ) ),'<br/>', '<a href="https://athemeart.com/downloads/shopstore/" target="_blank">ShopStore</a>');
 		
 	?></p>
     
