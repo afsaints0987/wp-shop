@@ -2325,7 +2325,7 @@ footer a{
 }
 .footer-bottom  a,
 .footer-bottom  p{
-	color:#FFF	
+	color:#FFF;
 }
 .footer-bottom.style2 {
 	background-color:#151515;
@@ -2336,10 +2336,10 @@ footer a{
 }
 
 .footer-bottom .copyright {
-	color:#868686;
+	color:#f3f3f3;
 	float:left;
 	font-size:0.8rem;
-	line-height:25px;
+	line-height:40px;
 	margin-left:-1px;
 }
 .footer-bottom.style1 {

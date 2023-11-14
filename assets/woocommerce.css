@@ -80,7 +80,7 @@
 .imagebox .box-content .price  {
 	display:block;
 	padding:4px 0px;
-	vertical-align:central;
+	vertical-align: middle;
 }
 .imagebox .box-content .price span{
 	font-family: 'Roboto Condensed',serif;
@@ -449,7 +449,6 @@ table.variations td{
 	float:left;
 	
 }
-.
 .woocommerce div.product .woocommerce-product-rating {
     margin-bottom:0px!important;
 }
